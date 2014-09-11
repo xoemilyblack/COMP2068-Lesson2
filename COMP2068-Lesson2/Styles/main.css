@@ -1,2 +1,9 @@
-﻿body {
+﻿#lessonHeader {
+    display:none;
 }
+body {
+    margin: 30px;
+    font-family:'Lucida Sans';
+    font-size:12px;
+}
+
